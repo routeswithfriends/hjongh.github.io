@@ -4,6 +4,10 @@ body {
 	background-color: lightblue;
 }
 
+header{
+	background-color: black;
+	margin: 10px auto;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
