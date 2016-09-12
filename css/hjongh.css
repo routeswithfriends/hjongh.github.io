@@ -6,10 +6,16 @@ body {
 
 div{
 	background-color: black;
-	margin: 10px auto;
+	margin: 10px;
 	top: 0px;
 	left: 0px;
+	color: white;
 	width: 100%;
-	color: #CCC;
 	padding: 20px;
+	align: center;
+}
+
+body{
+	align: center;
+	text-align: center;
 }
