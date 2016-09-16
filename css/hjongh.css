@@ -4,7 +4,6 @@ body {
 	background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url("./fotos/sss3.png");
 	background-size: 100%;
 	align: center;
-	text-align: center;
 	color: #CCC;
 	font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
 }
@@ -26,4 +25,5 @@ h1{
 	font-weight: 700;
 	color: white;
 	font-size: 56px;
+	text-align: center;
 }
