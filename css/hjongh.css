@@ -5,6 +5,7 @@ body {
 	align: center;
 	text-align: center;
 	color: #CCC;
+	font-family: Merriweather,'Helvetica Neue',Arial,sans-serif
 }
 
 #header{
@@ -16,4 +17,9 @@ body {
 	padding: 20px;
 	margin: 0px;
 	opacity: 0.5;
+}
+
+h1{
+	text-transform: uppercase;
+	color: white;
 }
