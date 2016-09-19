@@ -11,7 +11,6 @@ body {
 #header{
 	background-color: black;
 	color: #CCC;
-	width: 100%;
 	padding: 20px;
 	margin: 0px;
 	opacity: 0.5;
@@ -31,12 +30,14 @@ h1{
     float: left;
 	text-align: left;
 	margin: 0px;
-	padding: 5px;
+	padding: 0px;
+	width: 40px;
 }
 
 #div2 {
     float:right;
 	text-align: right;
 	margin: 0px;
-	padding: 5px;
+	padding: 0px;
+	width: 40px;
 }
