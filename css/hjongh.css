@@ -1,5 +1,5 @@
 body {
-	background-color: lightblue;
+	background-color: white;
 	margin: 0px;
 	align: center;
 	color: #CCC;
@@ -50,6 +50,12 @@ h1{
     top: 0px;
 	position: absolute;
 	width: 100%;
+}
+
+#about{
+	height: 100px;
+	color: black;
+	text-align: center;
 }
 
 img{
