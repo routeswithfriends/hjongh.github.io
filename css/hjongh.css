@@ -11,7 +11,7 @@ body {
 #header{
 	background-color: black;
 	color: #CCC;
-	padding: 20px;
+	padding: 16px;
 	margin: 0px;
 	opacity: 0.5;
 	height: 20px;
@@ -38,6 +38,6 @@ h1{
     float:right;
 	text-align: right;
 	margin: 0px;
-	padding: 0px;
+	padding-left: 12px;
 	width: 40px;
 }
