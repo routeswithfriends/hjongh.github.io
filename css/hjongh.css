@@ -58,15 +58,15 @@ h1{
 
 #about{
 	height: 100px;
-	color: black;
+	color: white;
+	background-color: black;
 	text-align: center;
 	padding: 40px;
 }
 
 #links{
 	height: 100px;
-	color: white;
-	background-color: black;
+	color: black;
 	text-align: center;
 	padding: 40px;
 }
