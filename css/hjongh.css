@@ -45,6 +45,10 @@ h1{
 	position: relative;
 }
 
+#outro{
+	
+}
+
 #overlay{
 	left: 0px;
     top: 0px;
@@ -56,6 +60,15 @@ h1{
 	height: 100px;
 	color: black;
 	text-align: center;
+	padding: 40px;
+}
+
+#links{
+	height: 100px;
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 40px;
 }
 
 img{
