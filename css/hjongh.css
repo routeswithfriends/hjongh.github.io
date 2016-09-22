@@ -79,8 +79,12 @@ h1{
 	background-color: #C7EEFF;
 	color: #1D242B;
 }
+
+#selfie{
+	filter: brightness(70%);
+}
+
 img{
 	width: 100%;
-	filter: brightness(70%);
 	display: block;
 }
