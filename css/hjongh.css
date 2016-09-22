@@ -59,18 +59,26 @@ h1{
 #about{
 	height: 100px;
 	color: white;
-	background-color: black;
+	background-color: #0077C0;
 	text-align: center;
 	padding: 40px;
 }
 
 #links{
 	height: 100px;
-	color: black;
+	color: white;
 	text-align: center;
+	background-color: #1D242B;
 	padding: 40px;
 }
 
+#mods{
+	height: 100px;
+	text-align: center;
+	padding: 40px;
+	background-color: #C7EEFF;
+	color: #1D242B;
+}
 img{
 	width: 100%;
 	filter: brightness(70%);
