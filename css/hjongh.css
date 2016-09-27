@@ -7,12 +7,8 @@ body {
 }
 
 h1{
-	text-transform: uppercase;
-	margin-top: 12%;
 	font-weight: 700;
-	color: white;
 	font-size: 56px;
-	text-align: center;
 }
 
 #introimg{
@@ -28,20 +24,23 @@ h1{
 }
 
 #sect{
-    align-items: center;
+    display: flex;
 }
 
 #imgbox{
     width: 40%;
+    float: left;
 }
 
-#intro{
+#textbox{
     display: inline;
+    text-align: center;
 }
 
 p{
-    display: inline;
     text-align: center;
+    vertical-align: middle;
+    font-size: 40px;
 }
 
 #iimg{
@@ -49,6 +48,8 @@ p{
 	border-style: solid;
 	border-color: black;
     border-radius: 20px;
+    vertical-align: top;
+    display: inline;
 }
 
 #img2{
