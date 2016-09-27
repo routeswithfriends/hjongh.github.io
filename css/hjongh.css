@@ -7,10 +7,14 @@ body {
 }
 
 h1{
-	font-weight: 700;
 	font-size: 56px;
+    display: block;
 }
 
+h3{
+    font-size: 40px;
+    display: block;
+}
 #introimg{
 	width: 100%;
 	position: relative;
@@ -40,7 +44,6 @@ h1{
 p{
     text-align: center;
     vertical-align: middle;
-    font-size: 40px;
 }
 
 #iimg{
