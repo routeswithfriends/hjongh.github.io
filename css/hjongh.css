@@ -31,22 +31,6 @@ hr{
 	padding: 40px;
 }
 
-#links{
-	height: 100px;
-	color: #FAFAFA;
-	text-align: center;
-	background-color: #1D242B;
-	padding: 40px;
-}
-
-#mods{
-	height: 100px;
-	text-align: center;
-	padding: 40px;
-	background-color: #C7EEFF;
-	color: #1D242B;
-}
-
 img{
 	width: 100%;
 	display: block;
