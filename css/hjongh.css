@@ -33,16 +33,20 @@ h1{
 
 #imgbox{
     width: 40%;
-    
 }
 
-img2{
-	border-width: 3px;
+#intro{
+    width: 20%;
+}
+
+#iimg{
+	border-width: 10px;
 	border-style: solid;
 	border-color: black;
+    border-radius: 20px;
 }
 
-img{
+#img2{
 	width: 100%;
 	display: block;
 }
