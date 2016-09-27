@@ -20,7 +20,7 @@ h1{
 	position: relative;
 }
 
-#about{
+#main{
 	color: #1D242B;
 	background-color: #FAFAFA;
 	text-align: center;
@@ -28,7 +28,7 @@ h1{
 }
 
 #sect{
-    
+    align-items: center;
 }
 
 #imgbox{
@@ -36,7 +36,12 @@ h1{
 }
 
 #intro{
-    width: 20%;
+    display: inline;
+}
+
+p{
+    display: inline;
+    text-align: center;
 }
 
 #iimg{
