@@ -36,7 +36,7 @@ h3{
 
 #imgbox{
     float: left;
-    width: 40%;
+    width: 60%;
 }
 
 #textbox{
@@ -61,6 +61,7 @@ p{
     vertical-align: top;
     display: inline;
     background-size: contain;
+    width: 100%;
 }
 
 #img2{
