@@ -36,8 +36,13 @@ h3{
     padding-right: 20px;
 }
 
-#imgbox{
+#limgbox{
     float: left;
+    width: 50%;
+}
+
+#rimgbox{
+    float: right;
     width: 50%;
 }
 
