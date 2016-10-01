@@ -38,7 +38,12 @@ h3{
 
 #imgbox{
     float: left;
-    width: 60%;
+    width: 50%;
+}
+
+#pfbox{
+    float: left;
+    width: 30%;
 }
 
 #textbox{
@@ -48,6 +53,8 @@ h3{
     font-size: 26px;
     margin-left: 40px;
     margin-right: 40px;
+    width: 100%;
+    width: 60%;
 }
 
 p{
