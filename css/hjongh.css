@@ -36,6 +36,14 @@ h3{
     padding-right: 20px;
 }
 
+#links{
+    display: flex;
+}
+
+#linkimg{
+    height: 200px;
+}
+
 #limgbox{
     float: left;
     width: 50%;
