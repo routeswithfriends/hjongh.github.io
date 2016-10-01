@@ -38,10 +38,13 @@ h3{
 
 #links{
     display: flex;
+    justify-content: center;
 }
 
 #linkimg{
     height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 #limgbox{
