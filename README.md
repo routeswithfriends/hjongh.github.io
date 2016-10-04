@@ -1,6 +1,8 @@
 # hjongh 
 My personal website.
 
-I'll put something here eventually...
+I said that I'll put something here eventually
 
-just gotta sit my lazy ass down and learn how 
+once I sit my lazy ass down and learn how ...
+
+and I have! Go check it out at https://hjongh.github.io !
