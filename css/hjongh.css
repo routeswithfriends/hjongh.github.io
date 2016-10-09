@@ -65,7 +65,9 @@ h3{
 #textbox{
     display: inline;
     text-align: center;
-    padding: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
     font-size: 26px;
     margin-left: 40px;
     margin-right: 40px;
